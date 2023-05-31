@@ -16,7 +16,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -26,6 +25,7 @@
 - [📝 License](#license)
 
 # 📖 [Hello_World] <a name="about-project"></a>
+The goal of this project master the use of linters, gitignore and best practices in creating a README file and making a professional pull request. No complex coding is used in this project.
 
 ## 🛠 Built With <a name="built-with"></a>
 1- HTML\
@@ -45,12 +45,6 @@
 
 - Added index.html file
 - Added style.css file
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,12 +89,6 @@ To run tests, run the following command:
 
 > Coming soon
 
-### Deployment
-
-You can deploy this project using:
-
-> Coming soon
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -123,7 +111,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Wineshuga/Hello-world/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
